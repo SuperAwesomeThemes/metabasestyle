@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@import "lmweb/style/latinmodern-mono-caps.css"
+@import "lmweb/style/latinmodern-mono-light-cond.css"
+@import "lmweb/style/latinmodern-mono-light.css"
+@import "lmweb/style/latinmodern-mono-prop-light.css"
+@import "lmweb/style/latinmodern-mono-prop.css"
+@import "lmweb/style/latinmodern-mono-slanted.css"
+@import "lmweb/style/latinmodern-mono.css"
+@import "lmweb/style/latinmodern-roman-caps.css"
+@import "lmweb/style/latinmodern-roman-demi.css"
+@import "lmweb/style/latinmodern-roman-dunhill.css"
+@import "lmweb/style/latinmodern-roman-slanted.css"
+@import "lmweb/style/latinmodern-roman.css"
+@import "lmweb/style/latinmodern-sans-demi.css"
+@import "lmweb/style/latinmodern-sans.css"

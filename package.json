@@ -1,0 +1,22 @@
+{
+  "name": "stylebase.css",
+  "version": "0.0.1",
+  "description": "Styles for Metabase SSE theme",
+  "main": "./style.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/???/???.git"
+  },
+  "keywords": [
+    "latex",
+    "latex-css",
+    "classless-theme",
+    "css"
+  ],
+  "author": "Suminda Sirinath Salpitikorala Dharmasena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/???/???/issues"
+  },
+  "homepage": "https://???"
+}

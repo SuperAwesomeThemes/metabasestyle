@@ -1,0 +1,3 @@
+[submodule "fonts/latin-modern/lmweb"]
+	path = fonts/latin-modern/lmweb
+	url = https://github.com/slashfoo/lmweb
